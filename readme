@@ -1,0 +1,9 @@
+RUN
+run.sh - build and run with test
+
+requiments: ninja-build, cmake (ccache optional)
+
+TESTS
+First line - vertex ( targets ) number
+
+Other lines - adjacency list descr of build graph  
